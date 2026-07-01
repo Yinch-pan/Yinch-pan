@@ -38,4 +38,4 @@
 
 ### 🎮 Beyond Code
 * When I'm not writing code or building data pipelines, you can find me in Minecraft, or pushing my limits in Celeste.
-   📫 How to reach me: [51285903120@stu.ecnu.edu.cn]
+* 📫 How to reach me: 51285903120@stu.ecnu.edu.cn
