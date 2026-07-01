@@ -1,6 +1,7 @@
 # Hi there, I'm Yinch pan! 👋
 
 🎓 Student at the School of Data Science and Engineering, East China Normal University.
+
 🌱 Focused on data engineering, system development, and building solid technical solutions.
 
 ### 🔭 Currently Working On
